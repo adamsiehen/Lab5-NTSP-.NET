@@ -15,6 +15,33 @@ Implementacja wariantu podstawowego zadania:
   - `Lab5.Worker.ThreadPool` (ThreadPool/QueueUserWorkItem)
 - Kod współdzielony (`Lab5.Shared`) w formie Shared Project z parserem TSP, PMX, lokalnym 3-opt, helperami workerów i kontraktami IPC.
 
+## Opis programu
+
+Program służy do przybliżonego rozwiązywania problemu komiwojażera (NTSP) na podstawie danych z pliku `data/contries.tsp` oraz do porównania dwóch sposobów realizacji obliczeń równoległych w .NET:
+- `TPL` — wariant oparty o Task Parallel Library,
+- `ThreadPool` — wariant oparty o pulę wątków `ThreadPool`.
+
+Aplikacja działa w modelu klient–worker:
+- projekt `Lab5.Gui` udostępnia interfejs użytkownika,
+- projekt `Lab5.Worker.Tpl` wykonuje obliczenia w osobnym procesie z użyciem TPL,
+- projekt `Lab5.Worker.ThreadPool` wykonuje te same obliczenia w osobnym procesie z użyciem `ThreadPool`,
+- projekt `Lab5.Shared` zawiera wspólną logikę algorytmu, modele danych i komunikację między procesami.
+
+Przebieg działania programu:
+1. użytkownik wybiera tryb obliczeń, liczbę wątków/zadań, liczbę miast, czas faz PMX i 3-opt oraz liczbę epok,
+2. GUI uruchamia wybrany proces worker,
+3. worker losuje początkową populację tras,
+4. następnie naprzemiennie wykonuje fazę krzyżowania `PMX` oraz lokalnej poprawy rozwiązania `3-opt`,
+5. najlepsze znalezione rozwiązanie jest na bieżąco odsyłane do GUI,
+6. GUI pokazuje aktualną fazę, numer epoki, liczbę przetworzonych instancji, identyfikator wątku oraz rysuje najlepszą trasę.
+
+Program umożliwia:
+- uruchomienie obliczeń w dwóch wariantach współbieżności,
+- wstrzymanie i wznowienie obliczeń,
+- zatrzymanie obliczeń,
+- wizualizację aktualnie najlepszej trasy,
+- obserwację postępu działania algorytmu w czasie rzeczywistym.
+
 ## Uruchamianie
 
 1. Zbuduj rozwiązanie:
