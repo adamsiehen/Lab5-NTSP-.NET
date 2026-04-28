@@ -1,0 +1,14 @@
+D:\Inżynierka Informatyka\Programowanie w .NET\Laboratorium V (2h) - Współbieżność i Synchronizacja\lab5_dotnet\Lab5.Worker.ThreadPool\obj\Debug\net9.0\Lab5.Worker.ThreadPool.GeneratedMSBuildEditorConfig.editorconfig
+D:\Inżynierka Informatyka\Programowanie w .NET\Laboratorium V (2h) - Współbieżność i Synchronizacja\lab5_dotnet\Lab5.Worker.ThreadPool\obj\Debug\net9.0\Lab5.Worker.ThreadPool.AssemblyInfoInputs.cache
+D:\Inżynierka Informatyka\Programowanie w .NET\Laboratorium V (2h) - Współbieżność i Synchronizacja\lab5_dotnet\Lab5.Worker.ThreadPool\obj\Debug\net9.0\Lab5.Worker.ThreadPool.AssemblyInfo.cs
+D:\Inżynierka Informatyka\Programowanie w .NET\Laboratorium V (2h) - Współbieżność i Synchronizacja\lab5_dotnet\Lab5.Worker.ThreadPool\obj\Debug\net9.0\Lab5.Worker.ThreadPool.csproj.CoreCompileInputs.cache
+D:\Inżynierka Informatyka\Programowanie w .NET\Laboratorium V (2h) - Współbieżność i Synchronizacja\lab5_dotnet\Lab5.Worker.ThreadPool\bin\Debug\net9.0\Lab5.Worker.ThreadPool.exe
+D:\Inżynierka Informatyka\Programowanie w .NET\Laboratorium V (2h) - Współbieżność i Synchronizacja\lab5_dotnet\Lab5.Worker.ThreadPool\bin\Debug\net9.0\Lab5.Worker.ThreadPool.deps.json
+D:\Inżynierka Informatyka\Programowanie w .NET\Laboratorium V (2h) - Współbieżność i Synchronizacja\lab5_dotnet\Lab5.Worker.ThreadPool\bin\Debug\net9.0\Lab5.Worker.ThreadPool.runtimeconfig.json
+D:\Inżynierka Informatyka\Programowanie w .NET\Laboratorium V (2h) - Współbieżność i Synchronizacja\lab5_dotnet\Lab5.Worker.ThreadPool\bin\Debug\net9.0\Lab5.Worker.ThreadPool.dll
+D:\Inżynierka Informatyka\Programowanie w .NET\Laboratorium V (2h) - Współbieżność i Synchronizacja\lab5_dotnet\Lab5.Worker.ThreadPool\bin\Debug\net9.0\Lab5.Worker.ThreadPool.pdb
+D:\Inżynierka Informatyka\Programowanie w .NET\Laboratorium V (2h) - Współbieżność i Synchronizacja\lab5_dotnet\Lab5.Worker.ThreadPool\obj\Debug\net9.0\Lab5.Worker.ThreadPool.dll
+D:\Inżynierka Informatyka\Programowanie w .NET\Laboratorium V (2h) - Współbieżność i Synchronizacja\lab5_dotnet\Lab5.Worker.ThreadPool\obj\Debug\net9.0\refint\Lab5.Worker.ThreadPool.dll
+D:\Inżynierka Informatyka\Programowanie w .NET\Laboratorium V (2h) - Współbieżność i Synchronizacja\lab5_dotnet\Lab5.Worker.ThreadPool\obj\Debug\net9.0\Lab5.Worker.ThreadPool.pdb
+D:\Inżynierka Informatyka\Programowanie w .NET\Laboratorium V (2h) - Współbieżność i Synchronizacja\lab5_dotnet\Lab5.Worker.ThreadPool\obj\Debug\net9.0\Lab5.Worker.ThreadPool.genruntimeconfig.cache
+D:\Inżynierka Informatyka\Programowanie w .NET\Laboratorium V (2h) - Współbieżność i Synchronizacja\lab5_dotnet\Lab5.Worker.ThreadPool\obj\Debug\net9.0\ref\Lab5.Worker.ThreadPool.dll

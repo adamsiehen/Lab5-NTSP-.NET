@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)Models.cs" Link="Lab5.Shared\Models.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)TspLoader.cs" Link="Lab5.Shared\TspLoader.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)RouteMath.cs" Link="Lab5.Shared\RouteMath.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)GlobalBestStore.cs" Link="Lab5.Shared\GlobalBestStore.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)IpcContracts.cs" Link="Lab5.Shared\IpcContracts.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)GeneticOperators.cs" Link="Lab5.Shared\GeneticOperators.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ProcessedCounter.cs" Link="Lab5.Shared\ProcessedCounter.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ProjectPaths.cs" Link="Lab5.Shared\ProjectPaths.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorkerServerHost.cs" Link="Lab5.Shared\WorkerServerHost.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorkerEngineSupport.cs" Link="Lab5.Shared\WorkerEngineSupport.cs" />
+  </ItemGroup>
+</Project>

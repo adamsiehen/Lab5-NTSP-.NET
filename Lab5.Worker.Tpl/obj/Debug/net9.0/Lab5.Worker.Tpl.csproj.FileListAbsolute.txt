@@ -1,0 +1,14 @@
+D:\Inżynierka Informatyka\Programowanie w .NET\Laboratorium V (2h) - Współbieżność i Synchronizacja\lab5_dotnet\Lab5.Worker.Tpl\obj\Debug\net9.0\Lab5.Worker.Tpl.GeneratedMSBuildEditorConfig.editorconfig
+D:\Inżynierka Informatyka\Programowanie w .NET\Laboratorium V (2h) - Współbieżność i Synchronizacja\lab5_dotnet\Lab5.Worker.Tpl\obj\Debug\net9.0\Lab5.Worker.Tpl.AssemblyInfoInputs.cache
+D:\Inżynierka Informatyka\Programowanie w .NET\Laboratorium V (2h) - Współbieżność i Synchronizacja\lab5_dotnet\Lab5.Worker.Tpl\obj\Debug\net9.0\Lab5.Worker.Tpl.AssemblyInfo.cs
+D:\Inżynierka Informatyka\Programowanie w .NET\Laboratorium V (2h) - Współbieżność i Synchronizacja\lab5_dotnet\Lab5.Worker.Tpl\obj\Debug\net9.0\Lab5.Worker.Tpl.csproj.CoreCompileInputs.cache
+D:\Inżynierka Informatyka\Programowanie w .NET\Laboratorium V (2h) - Współbieżność i Synchronizacja\lab5_dotnet\Lab5.Worker.Tpl\bin\Debug\net9.0\Lab5.Worker.Tpl.exe
+D:\Inżynierka Informatyka\Programowanie w .NET\Laboratorium V (2h) - Współbieżność i Synchronizacja\lab5_dotnet\Lab5.Worker.Tpl\bin\Debug\net9.0\Lab5.Worker.Tpl.deps.json
+D:\Inżynierka Informatyka\Programowanie w .NET\Laboratorium V (2h) - Współbieżność i Synchronizacja\lab5_dotnet\Lab5.Worker.Tpl\bin\Debug\net9.0\Lab5.Worker.Tpl.runtimeconfig.json
+D:\Inżynierka Informatyka\Programowanie w .NET\Laboratorium V (2h) - Współbieżność i Synchronizacja\lab5_dotnet\Lab5.Worker.Tpl\bin\Debug\net9.0\Lab5.Worker.Tpl.dll
+D:\Inżynierka Informatyka\Programowanie w .NET\Laboratorium V (2h) - Współbieżność i Synchronizacja\lab5_dotnet\Lab5.Worker.Tpl\bin\Debug\net9.0\Lab5.Worker.Tpl.pdb
+D:\Inżynierka Informatyka\Programowanie w .NET\Laboratorium V (2h) - Współbieżność i Synchronizacja\lab5_dotnet\Lab5.Worker.Tpl\obj\Debug\net9.0\Lab5.Worker.Tpl.dll
+D:\Inżynierka Informatyka\Programowanie w .NET\Laboratorium V (2h) - Współbieżność i Synchronizacja\lab5_dotnet\Lab5.Worker.Tpl\obj\Debug\net9.0\refint\Lab5.Worker.Tpl.dll
+D:\Inżynierka Informatyka\Programowanie w .NET\Laboratorium V (2h) - Współbieżność i Synchronizacja\lab5_dotnet\Lab5.Worker.Tpl\obj\Debug\net9.0\Lab5.Worker.Tpl.pdb
+D:\Inżynierka Informatyka\Programowanie w .NET\Laboratorium V (2h) - Współbieżność i Synchronizacja\lab5_dotnet\Lab5.Worker.Tpl\obj\Debug\net9.0\Lab5.Worker.Tpl.genruntimeconfig.cache
+D:\Inżynierka Informatyka\Programowanie w .NET\Laboratorium V (2h) - Współbieżność i Synchronizacja\lab5_dotnet\Lab5.Worker.Tpl\obj\Debug\net9.0\ref\Lab5.Worker.Tpl.dll
