@@ -7,6 +7,8 @@ ININ4(hybryda) PR1.1 (dla różnic programowych)
 
 RealRP – Programowanie .NET – z_sem3_TGoluch 
 
+WSB Merito Gdańsk
+
 # Lab5 NTSP (.NET)
 Implementacja wariantu podstawowego zadania:
 - GUI w WPF (`Lab5.Gui`)
